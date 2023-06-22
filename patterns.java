@@ -28,7 +28,6 @@ public class patterns {
                             break;
                         }
 
-
                     }
 
                 System.out.println();
