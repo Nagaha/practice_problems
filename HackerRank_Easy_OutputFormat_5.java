@@ -10,7 +10,7 @@ cpp            065
 python         050 
 ================================*/
 
-//This code formats the input in aspecific manner and it uses concepts of String,Logical operator.
+//This code formats the input in a specific manner and it uses concepts of String,Logical operator.
 import java.util.Scanner;
 
 public class Solution {
