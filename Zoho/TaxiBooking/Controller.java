@@ -125,6 +125,7 @@ public class Controller {
         String name="";
         int password=0;
         Customer currCustomer=new Customer();
+        int custId=0;
 
         try {
             System.out.println("Enter the username: ");
@@ -141,6 +142,7 @@ public class Controller {
         for(Customer x:customerList){
             if(x.getName().equals(name) && x.getPassword()==password){
                 currCustomer=x;
+                custId=x.getId();
                 System.out.println("Successfull login");
                 found=true;
                 break;
@@ -191,8 +193,9 @@ public class Controller {
                    if(x==bookedDriver){
                        x.setLoc(des);
                        x.setEarnings(x.getEarnings()+earned);
-                       Trip newTrip=new Trip(src,des,x.getId(),commision,fare,x.getId());
+                       Trip newTrip=new Trip(src,des,custId,commision,fare,x.getId());
                        tripList.add(newTrip);
+                       System.out.println(newTrip.toCString());
                        x.setRest(true);
                    }
                    else{
@@ -206,9 +209,10 @@ public class Controller {
         choice=sc.nextInt();
         if(choice==1){
             for (Trip x:tripList){
-                if(x.getCustomerId()== currCustomer.getId()){
+                if(x.getCustomerId()==custId) {
                     System.out.println(x.toCString());
                 }
+
             }
         }
 
@@ -272,7 +276,7 @@ public class Controller {
                    return;
                }
                else{
-                   for(Trip y:tripList){
+                   for(Trip y:newList){
                        System.out.println(y.toString());
                    }
                }
