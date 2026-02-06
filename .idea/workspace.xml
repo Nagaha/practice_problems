@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91ba09e5-1c88-4700-be24-160e230ee054" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Harish75.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AddressNimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aishu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AllSequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AravindOOps/InheritanceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AravindOOps/PolyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AravindOOps/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AravindOOps/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Challenge2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignPatterns/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/CircularLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/DoublyLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/MidOfLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/NthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/SortedInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dynamic_Storage/StackAdt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptiondemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FairPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GapSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Heirarchy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hyperverge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Infosys1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/KMP_Algo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_Tasks/Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_Tasks/Day7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_Tasks/Day8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_Tasks/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_ZOHO/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MCA_ZOHO/TicketBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MOCKRound/Set2/Set2Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeOverlapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MostBeautyQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoveOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NCR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NextGreaterS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Placement/Subsequences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseStringOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saravani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Saro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ShortestPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_ADT/Linked_Imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_ADT/Stack_Imp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_L/KNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Trees_L/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Aravind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Fibonaaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Frequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/NetworkOptimization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/P1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vaishnav/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/BracketNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/CharWithRef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Dious_Num.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Divisible_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/EqualElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/EqualElementsZoho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/FirstNonRepeating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/FuelIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/InfiniteRepetion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/IsIsogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/LazyCaketer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/MergeSorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/NGE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/PatternPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/RedGreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/RemovePalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/ReverseSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/SpiralMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/SpiralPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/StringReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/SubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Subset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Tasks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/TwiceLargeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/VowelString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/WordValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho/Z_D8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/BrickBreaker/BrickBreaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/BrickBreaker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Medecine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/Slot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/TicketBooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/ParkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/PharmacyApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RailwayReservation/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RailwayReservation/TicketBooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RestaruntBooking/Controller_Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RestaruntBooking/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RestaruntBooking/Restarunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/RestaruntBooking/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Sanke/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Sanke/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Sanke/Snake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Sanke/SnakeIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/TaxiBooking/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/TaxiBooking/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/TaxiBooking/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/TaxiBooking/Trip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/mazeRunner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Zoho_3rd_round/mazeRunner/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lENGTH.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2XFCIKwT5G26fziVQ0YIH9W4YYa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Naga Harish/Documents/DSA_Learning&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Naga Harish\Documents\My Workplace\Java workspace\Harish75\src\Zoho_3rd_round" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vaishnav.Factorial" />
+      <module name="Harish75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vaishnav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fibonaaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vaishnav.Fibonaaci" />
+      <module name="Harish75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vaishnav.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AravindOOps.InheritanceDemo" />
+      <module name="Harish75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AravindOOps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AravindOOps.PolyDemo" />
+      <module name="Harish75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AravindOOps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AravindOOps.StackExample" />
+      <module name="Harish75" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AravindOOps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StackExample" />
+        <item itemvalue="Application.PolyDemo" />
+        <item itemvalue="Application.InheritanceDemo" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.Fibonaaci" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91ba09e5-1c88-4700-be24-160e230ee054" name="Changes" comment="" />
+      <created>1698215362145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698215362145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MergeOverlapping.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/CharWithRef.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/OddEven.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D17.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q3.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q4.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q4.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MOCKRound/Set1/Set1Q4.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D32.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D32.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D32.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Zoho/Z_D32.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Task2.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MCA_Tasks/Day8.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Harish75$Day7.ic" NAME="Day7 Coverage Results" MODIFIED="1722748158179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>MCA_Tasks.*</FILTER>
+    </SUITE>
+  </component>
+</project>
